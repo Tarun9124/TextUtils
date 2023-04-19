@@ -1,0 +1,14 @@
+body {
+    background-color: aliceblue;
+}
+
+.btn {
+    width: 120px;
+    background-color: rgb(0, 83, 86);
+    border-radius: 8px;
+}
+
+.txtarea {
+    border: 3px solid black;
+    border-radius: 10px;
+}
